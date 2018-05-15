@@ -1,0 +1,302 @@
+{
+  "success": false,
+  "type": true,
+  "startDate": "5-7",
+  "endDate": "8-7",
+  "gifts": [
+    {
+      "giftId": 1135,
+      "name": "1.5%加息券",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/803c8ee5-6b9d-4557-8ba6-a9a089139e17.png",
+      "seq": 1
+    },
+    {
+      "giftId": 1136,
+      "name": "200元哈根达斯",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/5f444c3d-eef4-4449-bf3d-d335068a8bce.png",
+      "seq": 2
+    },
+    {
+      "giftId": 1137,
+      "name": "前进1步",
+      "alias": "",
+      "type": 2,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/9fbdad93-cb50-4107-8133-0239e4293172.png",
+      "seq": 3
+    },
+    {
+      "giftId": 1138,
+      "name": "1%加息券",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/80d46694-60b1-40c1-948c-bf308e2e3aa6.png",
+      "seq": 4
+    },
+    {
+      "giftId": 1139,
+      "name": "10宝象币",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/834d929b-eded-44e1-9170-504da30f4619.png",
+      "seq": 5
+    },
+    {
+      "giftId": 1140,
+      "name": "50元话费",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/bde946f7-d9c0-4f70-b750-428128eba22b.png",
+      "seq": 6
+    },
+    {
+      "giftId": 1141,
+      "name": "后退3步",
+      "alias": "",
+      "type": 2,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/03838907-e6d5-410f-bca8-80b85c9356c2.png",
+      "seq": 7
+    },
+    {
+      "giftId": 1142,
+      "name": "300元星巴克卡",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/24c2a721-203b-4aa7-9d8d-72ebaff1c1a1.png",
+      "seq": 8
+    },
+    {
+      "giftId": 1143,
+      "name": "2%加息券",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/369c5c6d-3e99-4e1a-b792-78f9bb659afc.png",
+      "seq": 9
+    },
+    {
+      "giftId": 1144,
+      "name": "10元话费",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/641aa78a-9cf2-4e79-96a4-ffdffed88bdd.png",
+      "seq": 10
+    },
+    {
+      "giftId": 1145,
+      "name": "ofo月卡",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/4e040102-b491-4d8a-8da8-05643a0c88e5.png",
+      "seq": 11
+    },
+    {
+      "giftId": 1146,
+      "name": "小米充电宝",
+      "alias": "小米10000毫安新移动电源2",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/037d57e2-e632-4ea5-9c3a-7bf1f204e5e4.png",
+      "seq": 12
+    },
+    {
+      "giftId": 1147,
+      "name": "3%加息券",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/aa0d5a86-f7ed-4ed8-8658-f08568f100a8.png",
+      "seq": 13
+    },
+    {
+      "giftId": 1148,
+      "name": "1000元京东卡",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/2cbd0345-4a4a-48e0-a0e9-cc8116f404c2.png",
+      "seq": 14
+    },
+    {
+      "giftId": 1149,
+      "name": "后退4步",
+      "alias": "",
+      "type": 2,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/24f4f057-2f29-4ce5-8cd0-1c234f60736a.png",
+      "seq": 15
+    },
+    {
+      "giftId": 1150,
+      "name": "50元话费",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/d7ff81e5-ecfd-4ab2-87d5-9f743a3e93d5.png",
+      "seq": 16
+    },
+    {
+      "giftId": 1151,
+      "name": "汪正亲子摄影套餐",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/03b7037a-fb27-4397-8358-91547d396d85.png",
+      "seq": 17
+    },
+    {
+      "giftId": 1152,
+      "name": "888元现金",
+      "alias": "",
+      "type": 1,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/c1b1c089-ded1-4aff-9009-65e917c9c714.png",
+      "seq": 18
+    },
+    {
+      "giftId": 1153,
+      "name": "4%加息券",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/cb78cb15-fb2c-49e2-9bc4-a005c867b741.png",
+      "seq": 19
+    },
+    {
+      "giftId": 1154,
+      "name": "10000元现金",
+      "alias": "",
+      "type": 1,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/47053889-7ec0-4aff-8018-d520456f6c24.png",
+      "seq": 20
+    },
+    {
+      "giftId": 1155,
+      "name": "戴森风扇",
+      "alias": "戴森AM07落地式无叶电风扇",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/568e40d4-5e69-4591-94c2-5abd5c6a0a3f.png",
+      "seq": 21
+    },
+    {
+      "giftId": 1156,
+      "name": "九阳榨汁机",
+      "alias": "九阳JYL-C022E多功能四杯榨汁机",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/55ebd49b-7fbf-4609-9b70-420a3fd7d56d.png",
+      "seq": 22
+    },
+    {
+      "giftId": 1157,
+      "name": "再丢一次",
+      "alias": "",
+      "type": 2,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/316399fd-dc9e-4635-91ff-8b0363f89b31.png",
+      "seq": 23
+    },
+    {
+      "giftId": 1158,
+      "name": "5000元京东卡",
+      "alias": "",
+      "type": 0,
+      "logo": "//bxwd-img.oss-cn-hangzhou.aliyuncs.com/upload/image/1805/79644292-2030-4efc-a55e-942bb87d55c8.png",
+      "seq": 24
+    }
+  ],
+  "winList": [
+    {
+      "date": "05-15 18:28",
+      "username": "朱**",
+      "giftName": "2%加息券"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "10宝象币"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "50元话费"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "再丢一次"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "4%加息券"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "汪正亲子摄影套餐"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "ofo月卡"
+    },
+    {
+      "date": "05-15 18:27",
+      "username": "朱**",
+      "giftName": "ofo月卡"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "10元话费"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "1%加息券"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "50元话费"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "再丢一次"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "4%加息券"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "汪正亲子摄影套餐"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "ofo月卡"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "10元话费"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "50元话费"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "1%加息券"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "再丢一次"
+    },
+    {
+      "date": "05-15 18:26",
+      "username": "朱**",
+      "giftName": "4%加息券"
+    }
+  ]
+}

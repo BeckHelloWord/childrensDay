@@ -1,0 +1,277 @@
+{
+  "type": true,
+  "message": "",
+  "success": true,
+  "startDate": "2018-10-12",
+  "endDate": "2016-20-31",
+  "gifts": [
+    {
+      "giftId": "1",
+      "name": "1.5%加息券",
+      "alias": "很好很好很好的1.5%加息券",
+      "logo": "./images/mobile/mi.png",
+      "seq": ""
+    },
+    {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      },
+      {
+        "giftId": "1",
+        "name": "1.5%加息券",
+        "alias": "很好很好很好的1.5%加息券",
+        "logo": "./images/mobile/rate15.png",
+        "seq": ""
+      }
+  ],
+  "winList": [
+    {
+      "date": "12-02 09:23",
+      "username": "1哈哈哈哈哈哈",
+      "giftName": "1.5%加息券"
+    },
+    {
+        "date": "12-02 09:23",
+        "username": "2哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "3哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "4哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "5哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "6哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "7哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "8哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "9哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "10哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "11哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "12哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "13哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },
+      {
+        "date": "12-02 09:23",
+        "username": "14哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "15哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "16哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "17哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "18哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "19哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      },    {
+        "date": "12-02 09:23",
+        "username": "20哈哈哈哈哈哈",
+        "giftName": "1.5%加息券"
+      }
+  ],
+  "username": "",
+  "mobile": "",
+  "address": "",
+  "avlTimes": "3",
+  "position": 23
+}

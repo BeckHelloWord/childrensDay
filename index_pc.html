@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>六一儿童节</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="http://www.bxjr.com/topic/css/reset.css" />
+    <script type="text/javascript" src="./js/jquery1.12.js"></script>
+    <script type="text/javascript" src="./js/layui/layui.js"></script>
+    <script type="text/javascript" src="./js/jq.Slide.js"></script>
+    <script type="text/javascript" src="./js/layui/layui.js"></script>
+
+</head>
+
+<body class="pcPage">
+    <div class="wrapper">
+        {activity}
+        <div class="main">
+            <div class="big_box">
+                <div class="box_banner">
+                    <img src="./images/PC_03_11.png" alt="">
+                </div>
+                <div class="box_play">
+                    <img src="./images/PC_04.jpg" alt="">
+
+                </div>
+
+
+                <div class="box_info">
+                    <div class="info_top">
+                        <p class="top_title">快带着小象来游乐园投掷幸运骰子夺万元现金大奖吧～</p>
+
+                        <div class="top_content">
+                            <p>
+                                <i class="radius"></i>活动期间投资【幸运骰子】活动标的，每满2万年化投资额可获得一次投掷机会;</p>
+                            <p>
+                                <i class="radius"></i>根据掷出的点数走到对应位置,即可获得相应奖励;</p>
+                            <p>
+                                <i class="radius"></i>每次掷骰子时,始终从当前位置按照投掷的点数顺时针移动l;</p>
+                            <p>
+                                <i class="radius"></i>每带小象走完一圈,可额外获得50元话费。</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="very_big_box">
+
+                </div>
+
+                <div class="box_botton">
+                    <img src="./images/795454959_1677146090_大富翁.png" alt="">
+                    <!-- 右侧标题 -->
+                    <p class="left_title">年化投资额=投资金额*标的期限/360</p>
+                    <!-- 周围小图片集合 -->
+                    <div class="img_box">
+                        <div class="left_top">
+                            <img src="./images/PC_05_05_01_03.jpg" alt="">
+                        </div>
+                        <div class="left_middle">
+                            <img src="./images/PC_06.png" alt="">
+                        </div>
+                        <div class="right_top">
+                            <img src="./images/PC_05_05_03.jpg" alt="">
+                        </div>
+                        <!-- 右下角的小象 -->
+                        <div class="right_elf">
+                            <img src="./images/795454959_1677043116_pop.png" alt="">
+
+                            <div class="elf_info">
+                                <a href="javascript:;">
+                                    <p class="win">我的中奖记录</p>
+                                </a>
+                                <a href="javascript:;">
+                                    <p class="active">活动规则</p>
+                                </a>
+                                <a href="https://www.bxjr.com/lc/special/list.html">
+                                    <p class="invest">投资得机会</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 弹框图片 -->
+                    <div class="insert_imgs">
+                            <i class="layer-btn-closed js-layer-reward-closed"></i>
+                        <div id="gameRule">
+                            <img src="./images/大框.png" alt="">
+                            <div class="gameRule_info">
+                                <p class="gameRule_info_title">
+                                    活动规则
+                                </p>
+                                <div class="gameRule_info_content">
+                                    <ul>
+
+                                        <li class="gameRule_info_one ">
+                                            <span class="rule_radius"></span>1.本活动所有宝象金融认证用户均可参与</li>
+
+                                        <li class="gameRule_info_two">
+                                            <span class="rule_radius"></span>2.活动期间投资【幸运骰子】活动标的,每满2万年化投资额可获得一次投掷机会;</li>
+
+                                        <li>
+                                            <span class="rule_radius"></span>3.实物奖励发放: 实物礼品将在活动结束后的30个工作日内全部发出,请在6月13日23:59</li>
+                                        <li class="gameRule_info_three">前在个人中心中填写完整的收货地址,用户兑换的奖品以收到的实物为准,颜色均随机发货;</li>
+
+                                        <li>
+                                            <span class="rule_radius"></span>4.虚拟奖励发放: 活动期间所获得的话费奖励将实时充值到用户参与活动的注册手机号中(</li>
+                                        <li>具体以运营商到帐时间为准);虚拟礼品(京东卡)将在活动结束后的30个工作日以电子码</li>
+                                        <li>的形式发放至用户的消息中心;投资券.红包及宝象币将实时发送至用户帐户,具体使用规则</li>
+                                        <li class="gameRule_info_four">详见个人中心-我的红包;</li>
+
+                                        <li>
+                                            <span class="rule_radius"></span>5.现金奖励发放: 活动期间内所获得的现金奖励将在活动结束后的30个工作日内发放到用</li>
+                                        <li class="gameRule_info_five">户的平台投资账户中;</li>
+
+                                        <li class="gameRule_info_six">6.若用户参与活动所投资的标的募集失败,则该笔投资不能获得活动奖励;</li>
+
+                                        <li>
+                                            <span class="rule_radius"></span>7.抽奖过程中,如发现违规行为(如恶意注册大量帐户,使用作弊程序等)宝象金融将取消您的</li>
+                                        <li>中奖资格并追责.宝象金融保留对本次活动的最终解释权,如对本次活动有任何疑问,请拨打客</li>
+                                        <li>服热线400-885-1100。</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="common_imgs_changs" style="display:none;">
+                        <i class="layer-btn-closed js-layer-reward-closed"></i>
+                        <img src="./images/小框.png" alt="">
+                        <p class="common_imgs_title">投掷结果</p>
+                        <div class="common_imgs_elf">
+                            <img src="./images/再来.png" alt="">
+                        </div>
+                        <p class="common_imgs_middle">
+                            很遗憾您没有投掷机会了
+                        </p>
+
+                        <div class="common_imgs_btn_box">
+                            <div class="common_imgs_btn_left">
+                                <a href="javascript:;">投资得机会</a>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <div class="flag_img">
+                        <img src="./images/795454959_1677043577_旗杆.png" alt="">
+                    </div>
+                    <div class="flag_img">
+                        <img src="./images/795454959_1677043577_旗杆.png" alt="">
+                    </div>
+
+
+                    <!-- 收货地址 -->
+
+
+
+
+
+
+                    <p class="flag_img_info">起点</p>
+                    <div class="elf_img">
+
+                    </div>
+
+                    <!-- 按钮骰子模块 -->
+                    <div class="big_btn">
+                        <a href="javascript:;">
+                            <p class="big_btn_info">点击投掷</p>
+                        </a>
+
+                    </div>
+
+
+                    <div class="game-dice">
+                        <div class="dice-wrap">
+                            <div class="dice dice_1">
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- 游戏地图 -->
+                    <ul class="box_top" id="gameMapDom">
+
+
+
+
+                    </ul>
+
+                    <!-- 获奖名单无缝轮播 -->
+                    <div class="winner">
+
+                        <div class="winning-list" id="winningDom">
+                            <!-- 模板引擎渲染 -->
+                        </div>
+
+
+                    </div>
+
+
+
+                    <p class="last_title">
+                        获奖名单
+                    </p>
+
+                    <p class="last_info">
+                        上述活动所涉及的金额计量单位均为人民币
+                    </p>
+                </div>
+
+
+                <p class="info_botton">
+                    市场有风险 投资需谨慎
+                </p>
+
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+</html>
+
+
+<script>
+
+
+
+
+    // 活动获奖信息无缝轮播
+    function autoScroll(obj) {
+        $(obj).find('.winner_box').animate({
+            marginTop: '-40px'
+        }, 1000, function () {
+            $(this).css({ marginTop: "0px" });
+            var p = $(".winner_box").children().first().clone()
+            $(".winner_box p:last").after(p);
+            $(".winner_box p:first").remove();
+        })
+    }
+
+    $(function () {
+        setInterval('autoScroll(".winner")', 2000);
+    })
+
+    // 点击规则的弹框效果
+
+
+
+    layui.config({
+        base: './js/' //你存放新模块的目录，注意，不是layui的模块目录
+    }).use('pc'); //加载入口
+
+    layui.config({
+        base: './js/' //你存放新模块的目录，注意，不是layui的模块目录
+    }).use('pc'); //加载入口
+
+
+    // 轮盘效果
+
+    $(function () {
+        clearStyle();
+        addStyle();
+    })
+
+    function clearStyle() {
+        $(".box_top li").removeClass("addStyle");
+        addStyle();
+    }
+
+    function addStyle() {
+        $(".box_top li").eq(5).addClass("addStyle");
+    }
+
+
+</script>
+
+
+
+
+<!-- 棋盘渲染模板 -->
+<script id="mapTemplate" type="text/html">
+    <div class="btn_title">剩余游戏次数<em>{{d.avlTimes?d.avlTimes:0}}</em>
+    </div>
+
+    <div class="outset">
+            {{# if(d.position==0){ }}
+                <i class="mascot js-mascot"></i>
+            {{#} }}
+            </div>
+
+    {{#  layui.each(d.gifts, function(index, item){ }}      
+<li class="product-item {{'box_top_'+(index+1)}} {{index+1==d.position?'addStyle':''}}">
+        {{# if(item.type !=='3'){ }}
+        <span class="product-item_content">
+            {{# if(item.type!='2'){ }}
+            <img src="{{item.logo}}" alt="">
+            {{#} }}
+            <p>{{item.name}}</p>
+        </span>
+        {{# } }}
+    </li>
+  {{#  }); }}
+    
+</script>
+
+
+
+
+<!-- 获奖名单渲染模板 -->
+<script id="winningTempalte" type="text/html">
+    <ul class="js-winning-list">
+       {{# layui.each(d.winList, function(index, item){ }}
+
+       <p class="winner_one">
+        <span>{{item.username}}</span> 点亮
+        <q>{{item.giftName}}</q>
+        <em>{{item.date}}</em>
+      </p>
+      {{# }); }}
+     </ul>
+ </script>
+
+
+
+
+<!-- 走完一圈弹框 -->
+<script id="extraResultTemplate" type="text/html">
+
+        <div class="common_imgs_week">
+                <i class="layer-btn-closed js-layer-reward-closed"></i>
+                <img src="./images/小框.png" alt="">
+                <p class="common_imgs_title">投掷结果</p>
+                <div class="common_imgs_elf">
+                    <img src="./images/绕圈.png" alt="">
+                </div>
+
+                <div class="common_two_p">
+                    <p>恭喜您已经带小象绕了一圈啦</p>
+                    <p class="common_p_two">成功获得
+                        <span>{{d.roundGift.name}}</span>
+                    </p>
+                </div>
+
+                <div class="common_imgs_btn_box">
+                    <div class="common_imgs_btn_left">
+                        <a href="javascript:;">我知道了</a>
+                    </div>
+                  
+                </div>
+            </div>
+        
+    </script>
+
+
+
+<!-- 后退弹框 -->
+<script id="retreatResultTemplate" type="text/html">
+        <div class="common_imgs_back">
+                <i class="layer-btn-closed js-layer-reward-closed"></i>
+                <img src="./images/小框.png" alt="">
+                <p class="common_imgs_title">投掷结果</p>
+                <div class="common_imgs_elf">
+                    <img src="./images/后退.png" alt="">
+                </div>
+                <p class="common_imgs_middle">
+                    很遗憾您要后退
+                    <span> {{d.sourceGift.distance}} </span>步啦
+                </p>
+
+                <div class="common_imgs_btn_box">
+                    <div class="common_imgs_btn_left">
+                        <a href="javascript:;">我知道了</a>
+                    </div>
+
+
+                </div>
+
+
+            </div>
+</script>
+
+<!-- 前进弹框 -->
+<script id="progressResultTemplate" type="text/html">
+        <div class="common_imgs_move">
+                <i class="layer-btn-closed js-layer-reward-closed"></i>
+                <img src="./images/小框.png" alt="">
+                <p class="common_imgs_title">投掷结果</p>
+                <div class="common_imgs_elf">
+                    <img src="./images/前进.png" alt="">
+                </div>
+                <p class="common_imgs_middle">
+                    恭喜您前进
+                    <span> {{d.sourceGift.distance}} </span>步啦
+                </p>
+
+                <div class="common_imgs_btn_box">
+                    <div class="common_imgs_btn_left">
+                        <a href="javascript:;">我知道了</a>
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+
+
+</script>
+
+
+<!-- 重试弹框 -->
+<script id="retryResultTemplate" type="text/html">
+    <div class="common_imgs_goon">
+            <i class="layer-btn-closed js-layer-reward-closed"></i>
+            <img src="./images/小框.png" alt="">
+            <p class="common_imgs_title">投掷结果</p>
+            <div class="common_imgs_elf">
+                <img src="./images/795454959_1698860118_矢量智能对象.png" alt="">
+            </div>
+            <p class="common_imgs_middle">
+                没有关系再接再厉
+            </p>
+
+            <div class="common_imgs_btn_box">
+                <div class="common_imgs_btn_left">
+                    <a href="javascript:;">我知道了</a>
+                </div>
+            </div>
+        </div>
+</script>
+
+
+
+
+<!-- 虚拟物品中奖 -->
+<script id="giftResultTemplate" type="text/html">
+    <div class="common_imgs">
+            <i class="layer-btn-closed js-layer-reward-closed"></i>
+            <img src="./images/小框.png" alt="">
+            <p class="common_imgs_title">投掷结果</p>
+            <div class="common_imgs_elf">
+                <img src="./images/抽中.png" alt="">
+            </div>
+            <p class="common_imgs_middle">
+                恭喜您获得
+                <span> {{d.targetGift.name}}</span>
+            </p>
+
+            <div class="common_imgs_btn_box">
+                <div class="common_imgs_btn_left">
+                    <a href="javascript:;">我知道了</a>
+                </div>
+                <div class="common_imgs_btn_right">
+                    <a href="javascript:;">继续投掷</a>
+                </div>
+
+            </div>
+
+
+        </div>
+</script>
+
+<!-- 实物中奖 -->
+<script id="commodityTemplate" type="text/html">
+        <div class="common_imgs_address">
+                <i class="layer-btn-closed js-layer-reward-closed"></i>
+                <img src="./images/795454959_1698855013_填写地址.png" alt="">
+                <p class="common_imgs_title">投掷结果</p>
+
+                <div class="common_imgs_elf">
+                    <img src="./images/抽中.png" alt="">
+                </div>
+                <p class="common_imgs_middle">
+                    恭喜你获得
+                    <span>小米充电宝</span>
+                </p>
+                
+                <div class="common_imgs_content">
+                 
+                    <li><span>收件人:</span><input type="text"  value="{{d.username}}" readonly placeholder="收货人姓名"></li>
+                    <li><span>联系电话:</span><input type="text"  value="{{d.mobile}}" readonly placeholder="电话号码"></li>
+                    <li><span>收获地址:</span><input type="text"  class="js-info-address" value="{{d.address}}" placeholder="请准确输入省市及详细地址,如道路、门牌号、小区、楼栋号、单元室等"></li>
+                    
+                </div>
+
+
+
+
+                <div class="common_imgs_btn_box">
+                    <div class=" common_imgs_btn_left_adress">
+                        <a href="javascript:;" type="submit" class="btn_submit js-post-address">提交收获地址</a>
+                    </div>
+                </div>
+            </div>
+
+   
+    </script>
+
+<!-- 快递时间 -->
+<script id="deliveryTemplate" type="text/html">
+    <div class="common_imgs_success" id="common_imgs_success">
+            <i class="layer-btn-closed js-layer-reward-closed"></i>
+            <img src="./images/小框.png" alt="">
+            <p class="common_imgs_title">投掷结果</p>
+
+
+
+            <p class="common_imgs_middle">
+                奖品将于30个工作日内寄出
+            </p>
+
+            <div class="common_imgs_btn_box">
+                <div class="common_imgs_btn_left">
+                    <a href="javascript:;">我知道了</a>
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+</script>
+
+<!-- 奖品弹框 -->
+
+
+<script id="layer-reward-tempalte" type="text/html">
+<div class="common_imgs_prize">
+        <i class="layer-btn-closed js-layer-reward-closed"></i>
+    <img src="./images/小框.png" alt="">
+    <p class="common_imgs_title">我的奖品</p>
+
+
+   
+    <div class="common_imgs_prize_box">
+     {{# layui.each(d.list, function(index, item){ }}
+      <div class="prize_box_content">
+        <div class="commom_imgs_logo"> 
+            <img src="{{item.logo}}" />
+        </div>
+
+            <li>
+                <span class="semi-circle_top"></span>
+
+                <p> <span>{{item.date}}</span> 获得
+                    <span>  {{item.name}}</span>
+                </p>
+                <span class="semi-circle_bottom"></span>
+           </li>
+      
+    </div>
+    {{# }); }}
+    </div>
+   
+  
+
+</div> 
+</script>
+
+<!-- 我的奖品弹框 -->
+<!-- <script id="layer-reward-tempalte" type="text/html">
+        <section class="layer-common  js-layer-reward" id="layer-reward">
+            <div>
+                <i class="layer-btn-closed js-layer-reward-closed"></i>
+                <i class="layer-ribbons_lefttop"></i>
+                <i class="layer-ribbons_leftbottom"></i>
+                <i class="layer-ribbons_righttop"></i>
+                <i class="layer-ribbons_rightbottom"></i>
+
+                <div class="layer-common-title layer-decoration">我的奖品</div>
+                <div class="layer-common-content layer-reward">
+                    <div class="my-reward">
+                        {{# layui.each(d.list, function(index, item){ }}
+                        <div class="reward-item">
+                            <div class="reward-img">
+                                <img src="{{item.logo}}" />
+                            </div>
+                            <div class="reward-txt">
+                                <p>
+                                    <span>{{item.date}}</span>获得
+                                    <strong class="reward-name">{{item.name}}</strong>
+                                </p>
+                            </div>
+                        </div>
+                        {{# }); }}
+                    </div>
+                </div>
+            </div>
+        </section> -->

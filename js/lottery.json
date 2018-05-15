@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "type": true,
+    "message": "",
+    "username": "施伟明",
+    "mobile": "18951000217",
+    "address": "aaaaa",
+    "point": 1,
+    "mode": 0,
+    "originalGift": {
+        "name": "1%加息券",
+        "pos": 4
+    },
+    "sourceGift": {
+        "giftId": 1139,
+        "name": "10宝象币",
+        "pos": 5,
+        "distance": 0
+    },
+    "targetGift": {
+        "giftId": 1139,
+        "name": "10宝象币",
+        "pos": 5,
+        "isGood": false
+    },
+    "avlTimes": 408,
+    "overRound": false
+}
+
+/**
+     * 掷骰子抽奖接口
+     * 访问地址：/act-millionaire/lottery.html
+     * 请求参数：无
+     * 响应信息：
+     *  type 接口是否成功 true:成功 false:失败
+     *  message 失败信息
+     *  success 是否登录 true:已登录 false:未登录
+     *  username 用户名
+     *  mobile 手机号
+     *  address 收货地址
+     *
+     *  point 投掷的点数
+     *  mode 奖品类型 0:未移动型奖品 1:向前移动型 -1:后退移动型 2:再丢一次 3:未抽中
+     *  originalGift 抽奖前坐标 Map
+     *      name 奖品名称 起始时为空
+     *      pos 位置
+     *  sourceGift 原生奖品 Map (mode=0 原生奖品与实际奖品一致, 1:原生奖品代表"向前移动"奖品,实际奖品代表移动后的奖品 2:...)
+     *      name 奖品名称
+     *      pos 奖品位置
+     *      distance 移动距离
+     *  targetGift 实际抽中奖品 Map
+     *      name 奖品名称
+     *      pos 奖品位置
+     *      isGood 是否实物
+     *  avlTimes 剩余抽奖次数
+     *  overRound 是否饶了一圈 true:是 false:否
+     *  roundGift 绕一圈后奖品 Map
+     *      name 奖品名称
+     *      isGood 是否实物
+     */
